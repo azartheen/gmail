@@ -1,4 +1,4 @@
-# gmail          #code by:- Mr. haxter  
+# gmail          
 
 create unlimited gmail using dot trick in single click
 
@@ -12,8 +12,5 @@ ls
 
 python3 trick.py
 
-for more tutorial visit:- https://darkwebsolutions.com/how-to-create-unlimited-gmail-accounts/
 
-
-my website :- https://darkwebsolutions.com
 
